@@ -6,4 +6,4 @@
   
 
 > Welcome to the Course Material!
- - [Web Design Week](./Week0) 
+ - [Web Design Week](/course-material/Week0) 
