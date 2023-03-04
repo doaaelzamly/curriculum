@@ -36,7 +36,6 @@
 - 13:00 - 15:00
 
   - [Intro to Web](./intro-to-web.md)
-  - Web Design
   
 - 15:00 - 16:00
 
