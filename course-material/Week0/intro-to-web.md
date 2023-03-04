@@ -29,6 +29,8 @@ Main article: [Static web page](https://en.wikipedia.org/wiki/Static_web_page)
 
 A _static_ website is one that has web pages stored on the server in the format that is sent to a client web browser. It is primarily coded in Hypertext Markup Language (**HTML**); Cascading Style Sheets (**CSS**) are used to control appearance beyond basic HTML.
 
+> Web design, on the other hand, is the process of designing a website's visual and aesthetic elements, such as color schemes, typography, layout, and graphics. A web designer's job is to create a user-friendly and visually appealing website that meets the client's needs and goals. Web designers use various tools such as Adobe Photoshop, Sketch, or Figma to design website layouts, logos, icons, and other graphical elements that are essential to the overall look and feel of the website.
+
 ### Dynamic website
 
 Main article: [Dynamic Website](https://techterms.com/definition/dynamicwebsite#:~:text=Dynamic%20websites%20contain%20Web%20pages,to%20the%20client's%20Web%20browser.)
