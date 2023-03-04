@@ -35,7 +35,8 @@
 
 - 13:00 - 15:00
 
-  - Web development and web design
+  - [Intro to Web](./intro-to-web.md)
+  - Web Design
   
 - 15:00 - 16:00
 
@@ -43,8 +44,6 @@
 - 16:00 - 17:00
   -   Installations
 
-[  
-](https://github.com/yasmeenattallah)
 
 ## Day 2
 - 10:00 - 11:00
