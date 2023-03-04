@@ -63,7 +63,7 @@
   
 - 16:00 - 17:00
 
-   -   individual learning
+   -   ePortfolio design 
 
 ## Day 3
 - 10:00 - 10:30
@@ -72,7 +72,7 @@
 
 - 10:30 - 12:00
 
-  -  ePortfolio design 
+  -  individual learning
 
 — BREAK —
 
