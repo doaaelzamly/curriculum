@@ -47,7 +47,7 @@
 ## Day 2
 - 10:00 - 13:00
 
-   - Intro to UX/UI design
+   - [Intro to UX/UI design](./intro-to-uiux.md)
 
   - 13:00 - 14:00
 
