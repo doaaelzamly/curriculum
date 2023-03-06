@@ -45,38 +45,22 @@
 
 
 ## Day 2
-- 10:00 - 11:00
+- 10:00 - 13:00
 
-  - Intro to UX/UI design
+   - Intro to UX/UI design
 
-- 11:00 - 12:00
+  - 13:00 - 14:00
 
-  -  Quick start with Figma
+   - Create Ux
 
 — BREAK —
+ 
+- 15:00 - 17:00
 
-- 13:00 - 16:00
-
-  - go through tutorial playlist
-  
-- 16:00 - 17:00
-
-   -   ePortfolio design 
+   -   WireFrame
 
 ## Day 3
-- 10:00 - 10:30
 
-  -Visit 3 of the websites on [Web design inspiration](https://www.webdesign-inspiration.com/) and jot down what you liked and didn't like about them. Be ready to answer the why question.
-
-- 10:30 - 12:00
-
-  -  individual learning
-
-— BREAK —
-
-- 13:00 - 17:00
-
-  - Use your knowledge from Day 01 and Day 02 along Figma as a tool to design a prototype of the ePortfolio of your pair.
 
 
 
