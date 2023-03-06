@@ -20,19 +20,19 @@ Overall, UX/UI design is a critical component of creating successful digital pro
 UX design 
 User Experience “UX” design is the process used to create products that provide meaningful and relevant experiences to users. This involves the design of the entire process of acquiring and integrating the development, including aspects of branding, design, usability, and function.
 -   User Experience is the value that you provide to your user when he is using your product.
-![enter image description here](https://o.remove.bg/downloads/d4cecc7b-6276-4087-9dfd-bbae9ae8f666/Screenshot_2023-03-06_200015-removebg-preview.png)
+![enter image description here](./ux.png)
 
 ## What is a UI?
 
 -   User Interface “UI” design is focused on the look and layout — how each element of the product will look, including buttons, text, images, checkboxes, and any visual interface elements people interact with.      
 
 -   UI is a part of UX because it affects the overall experience.
-![enter image description here](https://o.remove.bg/downloads/96bd42a6-d5cb-4fe9-ae3a-affa80e9cea5/Screenshot_2023-03-06_200853-removebg-preview.png)
+![enter image description here](./ui.png)
 
 
 
 
-####  Factors of the User Experience
+##  Factors of the User Experience
 
 
 
@@ -41,7 +41,7 @@ User Experience “UX” design is the process used to create products that prov
 
 
 
-![enter image description here](https://o.remove.bg/downloads/e90d1fa7-c688-42c1-81fa-2ea0cea3c66b/Screenshot_2023-03-06_203453-removebg-preview.png)
+![enter image description here](./factor.png)
 
 
 ###  Difference between UX & UI design   
@@ -56,7 +56,7 @@ Here’s what they had to say about the difference between UI and UX:
     
 -   UI is focused on the product, a series of snapshots in time. UX focuses on the user and their journey through the product. “Scott Jenson”
     
-![enter image description here](https://o.remove.bg/uploads/60b8d331-54b0-48c9-aa11-bec62132b152/Screenshot_2023-03-06_214000.png)
+![enter image description here](./uiux.png)
 
 
 
