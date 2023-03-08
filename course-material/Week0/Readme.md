@@ -57,10 +57,11 @@
  
 - 15:00 - 17:00
 
-   -   WireFrame
+   -  user flow and WireFrame
 
 ## Day 3
 
+- user persona each one make it 
 
 
 
