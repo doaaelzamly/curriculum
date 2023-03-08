@@ -51,7 +51,7 @@
 
   - 13:00 - 14:00
 
-   - Create Ux
+   - [Create UX](https://docs.google.com/presentation/d/1bdzZoG9cMfbFGMrTe-1uQKCrWNs0bSBZnOPRqLKAIro/edit?usp=sharing)
 
 — BREAK —
  
