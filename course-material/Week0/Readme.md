@@ -49,7 +49,7 @@
 
    - [Intro to UX/UI design](./intro-to-uiux.md)
 
-  - 13:00 - 14:00
+- 13:00 - 14:00
 
    - [Create UX](https://docs.google.com/presentation/d/1bdzZoG9cMfbFGMrTe-1uQKCrWNs0bSBZnOPRqLKAIro/edit?usp=sharing)
 
@@ -66,8 +66,7 @@
 
 -11:00 - 13:00 
    - [Design Thinking](https://docs.google.com/presentation/d/1K27xhxnXnJT7qQrKSJLNpf4hG64F89yGvAsr5ewCilg/edit?usp=sharing)
-
- - 13:00 - 14:00
+- 13:00 - 14:00
    - user manual 
 
 — BREAK —
