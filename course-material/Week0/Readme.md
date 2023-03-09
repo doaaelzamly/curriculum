@@ -62,12 +62,14 @@
 ## Day 3
 
 - 10:00 - 11:00
-   -  WireFrame
+    -  WireFrame
 
--11:00 - 13:00 
+- 11:00 - 13:00 
+
    - [Design Thinking](https://docs.google.com/presentation/d/1K27xhxnXnJT7qQrKSJLNpf4hG64F89yGvAsr5ewCilg/edit?usp=sharing)
+   
 - 13:00 - 14:00
-   - user manual 
+     - user manual 
 
 — BREAK —
  
