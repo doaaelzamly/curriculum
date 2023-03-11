@@ -49,7 +49,7 @@
 
    - [Intro to UX/UI design](./intro-to-uiux.md)
 
-  - 13:00 - 14:00
+- 13:00 - 14:00
 
    - [Create UX](https://docs.google.com/presentation/d/1bdzZoG9cMfbFGMrTe-1uQKCrWNs0bSBZnOPRqLKAIro/edit?usp=sharing)
 
@@ -62,13 +62,14 @@
 ## Day 3
 
 - 10:00 - 11:00
-   -  WireFrame
+    -  WireFrame
 
--11:00 - 13:00 
+- 11:00 - 13:00 
+
    - [Design Thinking](https://docs.google.com/presentation/d/1K27xhxnXnJT7qQrKSJLNpf4hG64F89yGvAsr5ewCilg/edit?usp=sharing)
-
- - 13:00 - 14:00
-   - user manual 
+   
+- 13:00 - 14:00
+     - [user manual](https://docs.google.com/presentation/d/1AH_B4I3ajkw4pF0bmAPmmekEorn0eQid/edit?usp=sharing&ouid=115328155059679605701&rtpof=true&sd=true) 
 
 — BREAK —
  
