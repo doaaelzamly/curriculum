@@ -20,9 +20,9 @@
 ## Day 1
  
 - 10:00 - 13:00
-  - Create UI  
+  - [Create UI](./create-ui.md)
 - 13:00 - 14:00
-  - Design tools 
+  - [Design tools](./design-tools.md) 
 
 — BREAK —
   
