@@ -33,11 +33,11 @@
 ## Day 2
  
 - 10:00 - 11:00
-  - create prototype
+  - [create prototype](./create-proto.md)
 - 11:00 - 12:00
-  - Quick start with Figma 
+  - [Quick start with Figma](./Quick-Figma.md) 
 - 12:00 - 12:30
-  - ePortfolio exercise (in pairs)
+  - [ePortfolio exercise (in pairs)](./eportfolio.md)
 - 12:30 - 13:30
    - Energizer
 - 13:30 - 14:00
