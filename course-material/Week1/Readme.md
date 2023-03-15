@@ -51,7 +51,11 @@
   
   ## Day 3
  
-- 10:00 - 14:00
+- 10:00 - 10:30
+    - [UI/Ux Role](./UIUX-Role.md) 
+- 10:30 - 12:00
+    - [Element Of UX](./UX-ele.md)
+-12:00 - 14:00
     - Use your knowledge from Day 01 and Day 02 along Figma as a tool to design a prototype of the ePortfolio of your pair. (individual project)
 
 — BREAK —
