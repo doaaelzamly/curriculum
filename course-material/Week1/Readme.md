@@ -1,7 +1,7 @@
 
 # Fundamental Week!
 
-> Great things are done by a series of small things brought together
+> The Hardest thing about getting started is getting started
 
   
 
@@ -18,54 +18,64 @@
   
 
 ## Day 1
- 
-- 10:00 - 13:00
-  - [Create UI](./create-ui.md)
-- 13:00 - 14:00
-  - [Design tools](./design-tools.md) 
+
+  
+
+- 10:00 - 11:00
+
+  - Overview of the program
+
+  - Team members and roles
+
+- 11:00 - 12:00
+
+  - pre Test
 
 — BREAK —
-  
-- 15:00 - 17:00
 
-   - Ethics 
+- 13:00 - 15:00
+
+  - [Intro to Web](./intro-to-web.md)
+  
+- 15:00 - 16:00
+
+   -   Course Overview
+- 16:00 - 17:00
+  -   Installations
+
 
 ## Day 2
+- 10:00 - 13:00
+
+   - [Intro to UX/UI design](./intro-to-uiux.md)
+
+- 13:00 - 14:00
+
+   - [Create UX](https://docs.google.com/presentation/d/1bdzZoG9cMfbFGMrTe-1uQKCrWNs0bSBZnOPRqLKAIro/edit?usp=sharing)
+
+— BREAK —
  
+- 15:00 - 17:00
+
+   -  user flow 
+
+## Day 3
+
 - 10:00 - 11:00
-  - [create prototype](./create-proto.md)
-- 11:00 - 12:00
-  - [Quick start with Figma](./Quick-Figma.md) 
-- 12:00 - 12:30
-  - [ePortfolio exercise (in pairs)](./eportfolio.md)
-- 12:30 - 13:30
-   - Energizer
-- 13:30 - 14:00
-  - Get inspired: Visit 3 of the websites on [Web design inspiration](https://www.webdesign-inspiration.com/) and jot down what you liked and didn't like about them. Be ready to answer the why question.
+    -  WireFrame
+
+- 11:00 - 13:00 
+
+   - [Design Thinking](https://docs.google.com/presentation/d/1K27xhxnXnJT7qQrKSJLNpf4hG64F89yGvAsr5ewCilg/edit?usp=sharing)
+   
+- 13:00 - 14:00
+     - [user manual](https://docs.google.com/presentation/d/1AH_B4I3ajkw4pF0bmAPmmekEorn0eQid/edit?usp=sharing&ouid=115328155059679605701&rtpof=true&sd=true) 
 
 — BREAK —
-  
-- 15:00 - 17:00
-
-   - Figma tutorial 
-  
-  ## Day 3
  
-- 10:00 - 10:30
-    - [UI/Ux Role](./UIUX-Role.md) 
-- 10:30 - 12:00
-    - [Element Of UX](./UX-ele.md)
-    
--12:00 - 14:00
-
-   - Use your knowledge from Day 01 and Day 02 along Figma as a tool to design a prototype of the ePortfolio of your pair. (individual project)
-
-— BREAK —
-  
 - 15:00 - 17:00
 
-   - Presentation time! 🎉
-
+   - Ethics
 
 
 
