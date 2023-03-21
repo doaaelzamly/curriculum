@@ -25,3 +25,7 @@ Examples :
 
 
 
+https://uxdesign.cc/whitespace-in-ui-design-44e332c8e4a
+
+
+
