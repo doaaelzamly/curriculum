@@ -47,7 +47,7 @@
 
 - 10:00 - 10:30
 
-  -  [White spacing](https://uxdesign.cc/whitespace-in-ui-design-44e332c8e4a)
+  -  [White spacing](./white-space.md)
 
 - 11:00 - 12:00
   - 
