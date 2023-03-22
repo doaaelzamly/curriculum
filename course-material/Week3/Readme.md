@@ -54,7 +54,7 @@
   - [Color Models](./color-model.md)  
 
 - 11:00 - 12:00
-  - Figma Plugins 
+  - [Figma Plugins](./plugins.md) 
 
 - 12:00 - 14:00
   - prototype  in figma
