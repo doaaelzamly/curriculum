@@ -49,12 +49,16 @@
 
   -  [White spacing](./white-space.md)
 
+- 10:30 - 11:00
+
+  - [Color Models](./color-model.md)  
+
 - 11:00 - 12:00
-  - 
+  - Figma Plugins 
 
 - 12:00 - 14:00
-  - prototype in figma
-
+  - prototype  in figma
+  
 
 — BREAK —
 
