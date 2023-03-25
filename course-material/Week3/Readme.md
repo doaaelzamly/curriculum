@@ -62,13 +62,22 @@
 
 — BREAK —
 
-- 15:00 - 16:00
+- 15:00 - 17:00
   - create a prototype for portfolio project 
+
+## Day 3
+
   
-- 16:00 - 17:00
-  - Create behance account and upload design
 
+- 10:00 - 11:00
 
+  -  Create behance account and upload design
+
+- 11:00 - 13:30
+  - Get inspired: Visit  the websites on [page collective](https://pagecollective.com/?ref=screenlane/) and choose one landing page to start  design it in figma .
+  
+- 13:30 - 15:30
+  - Entrep
 
 
 
