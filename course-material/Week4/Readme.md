@@ -25,7 +25,7 @@
   - Presentation time! 🎉
   
 - 14:00 - 15:30
-  - UI Tips 
+  - [UI Tips](./UITips.md) 
 
 
 
@@ -35,10 +35,10 @@
 ## Day 3
 - 10:00 - 12:00
 
-  - project
+  - 
 
 - 12:00 - 14:00
-  - Presentation time! 🎉
+  - 
   
 - 14:00 - 15:30
-  - UI Tips 
+  - 
