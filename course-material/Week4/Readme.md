@@ -21,15 +21,15 @@
 
   - project
 
-- 12:00 - 14:00
+- 12:00 - 13:30
   - Presentation time! 🎉
   
-- 14:00 - 15:30
-  - [UI Tips](./UITips.md) 
 
 
 
 ## Day 2
+- 14:00 - 15:30
+  - [UI Tips](./UITips.md) 
 
 
 ## Day 3
