@@ -31,15 +31,6 @@
 - 10:00 - 11:30
   - [UI Tips](./UITips.md) 
 - 11:30 - 15:30
-  - [E-commerace Project](https://docs.google.com/document/d/1Sre0as2BNQF6RvQg85fs6_p2K1gLaCWFjPwi1sX_CWY/edit?usp=sharing)
+  - [E-commerce Project](https://docs.google.com/document/d/1Sre0as2BNQF6RvQg85fs6_p2K1gLaCWFjPwi1sX_CWY/edit?usp=sharing)
 
 ## Day 3
-- 10:00 - 12:00
-
-  - 
-
-- 12:00 - 14:00
-  - 
-  
-- 14:00 - 15:30
-  - 
