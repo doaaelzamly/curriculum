@@ -18,4 +18,4 @@ A good ePortfolio is evidence of learning and performance that takes years to co
 
 In your rooms, get to know your peer and make sure you use the coming 30 mins to get enough information on the above sections so you're able to build them an ePortfolio.
 
-_Take lots of notes and keep them handy cause we'll need them throughout the week ;)_
+_Take lots of notes and keep them handy cause we'll need them throughout the week to design it using Figma  ;)_
