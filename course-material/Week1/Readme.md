@@ -1,5 +1,5 @@
 
-# Fundamental Week!
+# Mindset Week!
 
 > The Hardest thing about getting started is getting started
 

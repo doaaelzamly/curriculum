@@ -1,5 +1,5 @@
 
-# Fundamental Week!
+# Project Week!
 
 > Great things are done by a series of small things brought together
 
