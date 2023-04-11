@@ -8,12 +8,9 @@
 
 ```<head>```:  The head tag contains the “behind the scenes” elements for a webpage. Elements within the head aren’t visible on the front-end of a webpage. HTML elements used inside the <head> element include:
 
-```<style>``` :This html tag allows us to insert styling into our webpages and make them appealing to look at with the help of CSS.
+-   ```<style>``` :This html tag allows us to insert styling into our webpages and make them appealing to look at with the help of CSS.
 -   ```<title>``` :The title is what is displayed on the top of your browser when you visit a website and contains title of the webpage that you are viewing.
--   ```<base>```:It specifies the base URL for all relative URL’s in a document.
--   ```<noscript>```: Defines a section of HTML that is inserted when the scripting has been turned off in the users browser.
 -  ```<script>```:This tag is used to add functionality in the website with the help of JavaScript.
--   ```<meta>```:This tag encloses the meta data of the website that must be loaded every time the website is visited. For eg:- the metadata charset allows you to use the standard UTF-8 encoding in your website. This in turn allows the users to view your webpage in the language of their choice. It is a self closing tag.
 -   ```<link>```: The ‘link’ tag is used to tie together HTML, CSS and JavaScript. It is self closing.
 
 ```<body>```:  The body tag is used to enclose all the visible content of a webpage. In other words, the body content is what the browser will show on the front-end.
