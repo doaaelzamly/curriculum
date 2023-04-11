@@ -15,6 +15,9 @@ HTML stands  for HyperText Markup Language . It is used to design web pages usin
 
 ## HTML Layout 
 ![HTML layout](https://www.w3schools.com/html/img_sem_elements.gif)
+
+
+
 **Features of HTML:**
 
 -   It is easy to learn and easy to use.
