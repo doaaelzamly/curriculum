@@ -29,7 +29,7 @@
   - [HTML Editors](./HTMLEditor.md)
 
 - 12:00 - 14:00
-  - HTML Basic
+  - [HTML Basic](./HTMLBasic.md)
 
 — BREAK —
 
