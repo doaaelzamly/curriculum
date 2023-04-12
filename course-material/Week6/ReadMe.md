@@ -42,20 +42,25 @@
 
 ## Day 2
  
-- 10:00 - 12:00
+- 10:00 - 11:00
 
-  -  HTML Tags 
+  -  HTML Attributes  
+
+- 11:00 - 12:00
+  - [HTML Formatting](./HTMLFormat.md)
 
 - 12:00 - 13:00
-  - HTML Attribute 
-
-- 13:00 - 14:00
-  - HTML Formatting 
+  - [HTML  List](./HTMLList.md) 
 
 — BREAK —
 
-- 14:30 - 15:30
-  - HTML Quotation and comments  
+- 14:00 - 15:00
+  - [HTML Block & inline](./inline%26block.md) 
+
+- 15:00 - 15:30
+  - [HTML classes & ID’s](./classes%26ids.md)   
+
+
 
 
 
@@ -66,10 +71,10 @@
   -  HTML Style
 
 - 11:00 - 12:00
-  - HTML List
+  - 
 
 - 12:00 - 13:00
-  - HTML Block & inline
+  - 
 
  - 13:00 - 14:00
   - HTML table
